@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "136629184217",
+    "project_id": "chat-e4ea1",
+    "storage_bucket": "chat-e4ea1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136629184217:android:657181cacf9187cd8840c8",
+        "android_client_info": {
+          "package_name": "com.example.chat_tutoriel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136629184217-uemr25s5qs5foni8m4n3gbp4rqtisnp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1U4T47mcmReV02FojI5noJIzrldKYtOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136629184217-uemr25s5qs5foni8m4n3gbp4rqtisnp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
